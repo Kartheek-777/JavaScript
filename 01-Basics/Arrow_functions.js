@@ -39,4 +39,4 @@ const AreaofRect = (length, width) => {
     return length * width;
 };
 
-console.log(AreaofRect(12, 8));5
+console.log(AreaofRect(12, 8)); // 96
