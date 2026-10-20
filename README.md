@@ -1,5 +1,4 @@
 
-# JavaScript Learning 🚀
 
 A structured, interview-focused JavaScript learning repository covering essential concepts, coding practice, and commonly asked interview topics.
 
